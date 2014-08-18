@@ -12,10 +12,10 @@ alias les="less -S"
 alias qsub='/opt/gridengine/bin/lx26-amd64/qsub -q rna.q -q all.q'
 alias qsub1='/opt/gridengine/bin/lx26-amd64/qsub'
 SOFT=/PUBLIC/software/public
-MY=/PROJ/RNA/guilixuan
+MY=/PROJ/RNA/lilin
 RNASOFT=/PUBLIC/software/RNA
-WORK=/WORK/RNA/guilixuan
-BJ=/BJPROJ/RNA/guilixuan
+WORK=/WORK/RNA/lilin
+BJ=/BJPROJ/RNA/lilin
 LNC=/PUBLIC/source/RNA/lncRNA/lncRNA_v1
 MAF=/PUBLIC/database/RNA/maf/genome
 
